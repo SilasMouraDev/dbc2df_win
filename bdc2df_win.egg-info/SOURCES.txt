@@ -1,0 +1,6 @@
+README.md
+setup.py
+bdc2df_win.egg-info/PKG-INFO
+bdc2df_win.egg-info/SOURCES.txt
+bdc2df_win.egg-info/dependency_links.txt
+bdc2df_win.egg-info/top_level.txt
