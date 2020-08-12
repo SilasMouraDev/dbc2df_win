@@ -1,0 +1,10 @@
+MANIFEST.in
+setup.py
+dbc2df_win/__init__.py
+dbc2df_win/blast-dbf_32.exe
+dbc2df_win/blast-dbf_64.exe
+dbc2df_win.egg-info/PKG-INFO
+dbc2df_win.egg-info/SOURCES.txt
+dbc2df_win.egg-info/dependency_links.txt
+dbc2df_win.egg-info/requires.txt
+dbc2df_win.egg-info/top_level.txt
