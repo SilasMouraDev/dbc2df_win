@@ -9,7 +9,7 @@ import platform
 lib_fold = pathlib.Path(__file__).parent.absolute()
 if platform.machine().endswith('64'):
      blast_dbf = os.path.join(lib_fold,'blast-dbf_64.exe')
-else blast_dbf = os.path.join(lib_fold,'blast-dbf_32.exe')
+else:blast_dbf = os.path.join(lib_fold,'blast-dbf_32.exe')
 
 def open_dbc(src_path):
     temp_file = ''.join(random.choice('0123456789ABCDEF') for i in range(16))+'.dbf'

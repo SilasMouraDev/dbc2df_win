@@ -1,7 +1,7 @@
 import setuptools
 
-with open("README.md", "r") as fh:
-    long_description = fh.read()
+with open(".\\bdc2df_win\\README.md","r") as fh:
+    long_description=fh.read()
 
 setuptools.setup(
     name='bdc2df_win',  
@@ -14,6 +14,7 @@ setuptools.setup(
     url="https://github.com/SilasMouraDev/bdc2df_win",
     packages=setuptools.find_packages(),
     install_requires=['dbfread','pandas'],
+    include_package_data=True,
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",
