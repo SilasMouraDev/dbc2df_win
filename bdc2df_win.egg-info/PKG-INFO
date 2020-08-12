@@ -12,6 +12,7 @@ Description: # bdc2df_win
         
         Usage:
         import bdc2df_win
+        
         bdc2df_win.read_bdc('.\\path\\to\\your\\file.bdc')
 Platform: UNKNOWN
 Classifier: Programming Language :: Python :: 3
