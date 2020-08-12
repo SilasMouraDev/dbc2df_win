@@ -1,19 +1,19 @@
 Metadata-Version: 2.1
 Name: dbc2df-win
-Version: 0.1
+Version: 0.2
 Summary: Utility for loading dbc files into Pandas DataFrames
 Home-page: https://github.com/SilasMouraDev/dbc2df_win
 Author: SilasMouraDev
 Author-email: silas_moura_5@hotmail.com
 License: UNKNOWN
-Description: # bdc2df_win
+Description: # dbc2df_win
         
         Utility for loading dbc files into Pandas DataFrames
         
         Usage:
-        import bdc2df_win
+        import dbc2df_win as d2d
         
-        bdc2df_win.read_bdc('.\\\\path\\\\to\\\\your\\\\file.bdc')
+        d2d.read_bdc('.\\\\path\\\\to\\\\your\\\\file.bdc')
 Platform: UNKNOWN
 Classifier: Programming Language :: Python :: 3
 Classifier: License :: OSI Approved :: MIT License
