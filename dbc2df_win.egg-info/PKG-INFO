@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: dbc2df-win
-Version: 0.2
+Version: 0.3
 Summary: Utility for loading dbc files into Pandas DataFrames
 Home-page: https://github.com/SilasMouraDev/dbc2df_win
 Author: SilasMouraDev

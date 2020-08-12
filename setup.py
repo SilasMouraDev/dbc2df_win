@@ -5,7 +5,7 @@ with open(".\\dbc2df_win\\README.md","r") as fh:
 
 setuptools.setup(
     name='dbc2df_win',  
-    version='0.2',
+    version='0.3',
     author="SilasMouraDev",
     author_email="silas_moura_5@hotmail.com",
     description="Utility for loading dbc files into Pandas DataFrames",
