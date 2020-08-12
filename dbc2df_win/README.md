@@ -1,8 +1,8 @@
-# bdc2df_win
+# dbc2df_win
 
 Utility for loading dbc files into Pandas DataFrames
 
 Usage:
-import bdc2df_win
+import dbc2df_win as d2d
 
-bdc2df_win.read_bdc('.\\\\path\\\\to\\\\your\\\\file.bdc')
+d2d.read_bdc('.\\\\path\\\\to\\\\your\\\\file.bdc')
